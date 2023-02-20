@@ -35,9 +35,8 @@ Create a new project folder
 Clone 'master' repo to the project direcotry 'hangman-react-redux'.    
 Go to the newly created project directory 'hangman-react-redux' and run following commands:  
 `cd hangman-react-redux`  
-`git remote add origin https://github.com/ncinme/hangman-react-redux.git`  
-`git fetch origin master`  
-`git reset --hard origin/master`
+`git clone https://github.com/ncinme/hangman-react-redux.git`  
+`npm install`  
 
 ### Install Redux Tool Kit
 
